@@ -6,7 +6,7 @@
 > Where to get Minecraft and how to create a world
 
 ## Survive!
-### Survive the First Night
+### [Survive the First Night](Tutorials/early-survival/first-night.md)
 > What are the first things you should do to survive in Minecraft?
 TBD
 
