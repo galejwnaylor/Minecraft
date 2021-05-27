@@ -16,7 +16,7 @@ TBD
 
 # Advanced Concepts
 
-- Water Elevators
+- [Water Elevators](Concepts/water-elevators.md)
 
 
 
