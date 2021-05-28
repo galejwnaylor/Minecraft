@@ -39,7 +39,7 @@ Finding sheep is not required to survive the first night. However, without them 
 
 ## Resources
 Here are some resources I found useful:
-
+* [Surviving Your First Night In Survival Mode](https://www.howtogeek.com/school/htg-guide-to-minecraft/lesson7/) <-- Outstanding and accessible tutorial, with images and crafting recipes
 * [Minecraft guide: How to survive your first night in Minecraft](https://www.windowscentral.com/how-survive-your-first-night-minecraft)
 * [Minecraft guide to basic crafting: Essential recipes for tools, armor, items and more](https://www.windowscentral.com/how-craft-essentials-minecraft-windows-10-edition)
 
