@@ -23,7 +23,7 @@ Many tutorials describe the beginning aspects of the game, and I've listed a few
 
 1. **Make a shelter.** Your shelter can be a shallow cave or dirt to build with. Stay away from deep caves (or block off the back of the cave) because that is where hostile mobs will spawn and come to attack you.
 
-1. **Get a jump on Day 2.** If you managed to get this far, and you still have some daylight, check out the [Notes](notes-id) for a few things to try before night falls.
+1. **Get a jump on Day 2.** If you managed to get this far, and you still have some daylight, check out the [Notes](Notes) for a few things to try before night falls.
 
 1. **Sleep, or wait out the night.** When the sun rises, congratulations! You survived your first night in Minecraft!
 
