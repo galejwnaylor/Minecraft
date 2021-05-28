@@ -2,10 +2,6 @@
 
 > What are the first things you should do to survive in Minecraft?
 
- 
-## First Steps
-When you first spawn in your Minecraft world, you have no tools and no resources: only your fists. You will want quickly to find trees, shelter, and sheep (1). If you spawn on an island or in the desert, you may need to swim or run to a different area (*biome*) to find trees and animals. It's a good idea to stay relitively close to your spawn site because, if you are killed, that's where you will *respawn*. (Quickly get back to the place you were killed, and you may be able to pick up your items before they disappear.)
-
 
 ## First Steps
 
