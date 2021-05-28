@@ -27,15 +27,20 @@ Many tutorials describe the beginning aspects of the game, and I've listed a few
 
 1. **Sleep, or wait out the night.** When the sun rises, congratulations! You survived your first night in Minecraft!
 
+Next steps: Check out *You Survived! Now What?*
 
 
 ## Notes
-(1) Sheep are not required to survive the first night, but without them (or quite a bit of spider string) you cannot sleep. That makes surviving the night by hiding in your shelter for 10 minutes very boring. If you don't sleep for several nights in a row, dangerous phantoms will spawn!
+### Sheep and Sleep
+Finding sheep is not required to survive the first night. However, without them (or quite a bit of spider string) you cannot sleep. That makes surviving the night by hiding in your shelter for 10 minutes very boring. If you don't sleep for several nights in a row, dangerous phantoms will spawn!
 
-
+### Tips for Getting a Jump on Day 2
+* **Make a torch with coal.** If you found coal, you can make a torch out of a stick and a piece of coal. This makes your shelter much more pleasant at night. It also lets you light up caves, making them more safe. (Note: You can use the crafting table OR your personal crafting grid to make torches.)
+* **Make a torch with charcoal.**  Use your furnace (see below) to burn a log and create charcoal. Use the charcoal and a stick to make a torch. 
+* **Make a furnace.** If you didn't find coal, chances are you found a lot of cobblestone. Use your crafting table and 8 pieces of cobblestone to make a furnace. You can use logs (not planks!) for fuel until you find coal. Use the furnace to burn wood for charcoal or to smelt iron and other ores.
+* **Make stone tools.** Once you have some cobblestone and wood, you can make one or more stone tools. 
 
 ## Resources
-* [Minecraft guide: How to survive your first night in Minecraft
-](https://www.windowscentral.com/how-survive-your-first-night-minecraft)
+* [Minecraft guide: How to survive your first night in Minecraft](https://www.windowscentral.com/how-survive-your-first-night-minecraft)
 * [Minecraft guide to basic crafting: Essential recipes for tools, armor, items and more](https://www.windowscentral.com/how-craft-essentials-minecraft-windows-10-edition)
 
