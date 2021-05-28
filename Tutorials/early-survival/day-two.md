@@ -1,10 +1,10 @@
 # You Survived! Now What?
-> After mastering basic survival, what to do next? 
+> After mastering basic survival, what are some things to do next? 
 
 ## Notes
 - Build a base
 - Collect ores, upgrade tools and make armor
-- Get food (seeds from grass --> wheat --> bread, breed cows and sheep)
+- Get food (seeds from grass --> wheat --> bread, breed cows and sheep; apples from oak trees; zombie flesh, but it makes you sick; kill cows, sheep, pigs, chickens and cook the meat (can you eat raw meat?); ???)
 - Fight hostile mobs?
 
 Different game styles...
