@@ -26,6 +26,8 @@ Many tutorials describe the beginning aspects of the game, and I've listed a few
 
 Next steps: Check out *[You Survived! Now What?](Tutorials/early-survival/day-two.md)*
 
+Test: [Survive the First Night](Tutorials/early-survival/first-night.md)
+
 
 ## Notes
 ### Sheep and Sleep
