@@ -24,7 +24,7 @@ Many tutorials describe the beginning aspects of the game, and I've listed a few
 
 1. **Sleep, or wait out the night.** When the sun rises, congratulations! You survived your first night in Minecraft!
 
-Next steps: Check out *[You Survived! Now What?](Tutorials/early-survival/day-two.md)*
+Next steps: Check out *[You Survived! Now What?](day-two.md)*
 
 Test: [Survive the First Night](Tutorials/early-survival/first-night.md)
 
