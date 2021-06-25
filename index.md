@@ -36,6 +36,17 @@ TBD
 ## Build
 TBD
 
+<!--- CAN'T GET THESE IMAGES TO WORK! -->
+
+<img src="/Users/galenaylor/Code/Minecraft/images/windmill.png" alt="Windmill" style="height: 100px; width:100px;"/>
+
+<img src="windmill.png" alt="Windmill" style="height: 100px; width:100px;"/>
+
+![windmill](windmill.png "Windmill")
+
+
+
+
 ## Exploring
 
 TBD
