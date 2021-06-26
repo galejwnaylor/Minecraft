@@ -2,6 +2,16 @@
 
 > What are the first things you should do to survive in Minecraft?
 
+**Contents**
+
+* [What to do First](#actions)
+* [Notes](#notes)
+* [Tips](#tips) 
+* [Resources](#resources)
+
+<a id="actions"></a>
+## What to do First
+
 When you initially spawn in your Minecraft world, you typically have no tools and no resources: only your fists. You will want quickly to find trees, shelter, and sheep (1). If you spawn on an island or in the desert, you may need to swim or run to a different area (*biome*) to find trees and animals. It's a good idea to stay relatively close to your spawn site because, if you are killed, that's where you will *respawn*. (Quickly get back to the place you were killed, and you may be able to pick up your items before they disappear.)
 
 Your goal at the end of your first Minecraft day (which lasts about 10 minutes) is to have a shelter where you can safely spend the night, ideally with a bed. (If you don't have a bed, you'll have to stay awake for the entire 10 minute Minecraft night, which is *boring!*) Stretch goals for the following days are to collect wood, cobblestone, and coal so you can makes stone tools and torches.
@@ -20,7 +30,7 @@ Many tutorials describe the beginning aspects of the game, and I've listed a few
 
 1. **Make a shelter.** Your shelter can be a shallow cave or dirt to build with. Stay away from deep caves (or block off the back of the cave) because that is where hostile mobs will spawn and come to attack you.
 
-1. **Get a jump on Day 2.** If you managed to get this far, and you still have some daylight, check out the [Notes](#notes) for a few things to try before night falls.
+1. **Get a jump on Day 2.** If you managed to get this far, and you still have some daylight, check out the [Tips](#tips) for a few things to try before night falls.
 
 1. **Sleep, or wait out the night.** When the sun rises, congratulations! You survived your first night in Minecraft!
 
@@ -31,7 +41,8 @@ Next steps: Check out *[You Survived! Now What?](day-two.md)*
 ### Sheep and Sleep
 Finding sheep is not required to survive the first night. However, without them (or quite a bit of spider string) you cannot sleep. That makes surviving the night by hiding in your shelter for 10 minutes very boring. If you don't sleep for several nights in a row, dangerous phantoms will spawn!
 
-### Tips for Getting a Jump on Day 2
+## Tips 
+### Getting a Jump on Day 2
 
 * **Make a torch with coal.** If you found coal, you can make a torch out of a stick and a piece of coal. This makes your shelter much more pleasant at night. You can light up caves with torches so hostile mobs won't spawn. (Note: You can use the crafting table OR your personal crafting grid to make torches.)
 * **Make a torch with charcoal.**  Use your furnace (see below) to burn a log and create charcoal. Use the charcoal and a stick to make a torch. 
