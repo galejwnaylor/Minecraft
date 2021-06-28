@@ -33,13 +33,14 @@ TBD
 ## Farm
 TBD
 
-Markdown (Folder) - with leading slash
-![farm](/images/farm.png "Farm")
+Markdown (Folder) - with leading slash and correct filename
+![barn](/images/barn.png "Farm")
 
-Other approach
-[[/images/farm.png|"Farm"]]
+Other approach-with correct filename!
+[[/images/barn.png|"Barn"]]
 
-
+Link to github file in repo
+[[https://github.com/galejwnaylor/Minecraft/blob/main/images/barn.png | "Barn"]]
 
 ## Build
 TBD
