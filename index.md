@@ -33,15 +33,20 @@ TBD
 ## Farm
 TBD
 
+Markdown (Folder)
+![farm](images/farm.png "Farm")
+
 ## Build
 TBD
 
-<!--- CAN'T GET THESE IMAGES TO WORK! -->
-
+<!--- CAN'T GET THE IMAGES in folders TO WORK! -->
+HTML (Full Path)
 <img src="/Users/galenaylor/Code/Minecraft/images/windmill.png" alt="Windmill" style="height: 100px; width:100px;"/>
 
+HTML (Root)
 <img src="windmill.png" alt="Windmill" style="height: 100px; width:100px;"/>
 
+Markdown (Root)
 ![windmill](windmill.png "Windmill")
 
 
