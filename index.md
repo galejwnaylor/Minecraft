@@ -33,13 +33,11 @@ TBD
 ## Farm
 TBD
 
-Markdown (Folder) - with leading slash and correct filename
+Markdown (Folder) - with leading slash and correct filename -- THIS WORKS IN GITHUB BUT NOT GITHUB PAGES
 ![barn](/images/barn.png "Farm")
 
-Other approach-with correct filename!
-[[/images/barn.png|"Barn"]]
 
-Link to github file in repo (markdown syntax)
+Link to github file in repo (markdown syntax) - THIS NOW WORKS, BUT IT'S A LINK
 ["Barn"](https://github.com/galejwnaylor/Minecraft/blob/main/images/barn.png)
 
 ## Build
