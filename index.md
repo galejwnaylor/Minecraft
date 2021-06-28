@@ -33,8 +33,13 @@ TBD
 ## Farm
 TBD
 
-Markdown (Folder)
-![farm](images/farm.png "Farm")
+Markdown (Folder) - with leading slash
+![farm](/images/farm.png "Farm")
+
+Other approach
+[[/images/farm.png|"Farm"]]
+
+
 
 ## Build
 TBD
