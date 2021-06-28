@@ -39,8 +39,8 @@ Markdown (Folder) - with leading slash and correct filename
 Other approach-with correct filename!
 [[/images/barn.png|"Barn"]]
 
-Link to github file in repo
-[[https://github.com/galejwnaylor/Minecraft/blob/main/images/barn.png | "Barn"]]
+Link to github file in repo (markdown syntax)
+["Barn"](https://github.com/galejwnaylor/Minecraft/blob/main/images/barn.png)
 
 ## Build
 TBD
