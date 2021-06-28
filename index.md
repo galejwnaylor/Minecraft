@@ -43,6 +43,8 @@ Link to github file in repo (markdown syntax) - THIS NOW WORKS, BUT IT'S A LINK
 HTML (folder)
 <img src="/blob/main/images/barn.png" alt="Barn" style="height: 100px; width:100px;"/>
 
+Try a different source...
+<img src="https://galejwnaylor.github.io/blob/main/images/barn.png" alt="Barn" style="height: 100px; width: 100px;"/>
 
 ## Build
 TBD
