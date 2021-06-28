@@ -1,3 +1,12 @@
+<nav>
+  <ul>
+    <li><a href="#">Navigation</a></li>
+    <li><a href="#">Menu</a></li>
+    <li><a href="#">Links</a></li>
+  </ul>
+</nav>
+
+
 # Getting Started with Minecraft Survival
 
 > Experimenting with GitHub pages -- not intended to be an actual and complete Minecraft getting started guide.
