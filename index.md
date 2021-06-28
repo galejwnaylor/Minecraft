@@ -40,6 +40,10 @@ Markdown (Folder) - with leading slash and correct filename -- THIS WORKS IN GIT
 Link to github file in repo (markdown syntax) - THIS NOW WORKS, BUT IT'S A LINK
 ["Barn"](https://github.com/galejwnaylor/Minecraft/blob/main/images/barn.png)
 
+HTML (folder)
+<img src="/images/barn.png" alt="Barn" style="height: 100px; width:100px;"/>
+
+
 ## Build
 TBD
 
